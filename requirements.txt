@@ -1,0 +1,13 @@
+# Dependencies for Swiss Airlines Chatbot
+ollama
+openai
+tavily-python
+numpy
+faiss-cpu
+streamlit
+python-dotenv
+requests
+langchain
+langgraph
+langchain-openai
+langchain-community
